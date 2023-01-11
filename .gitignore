@@ -1,0 +1,7 @@
+src/__pycache__/
+src/menu/__pycache__/
+src/sockets/__pycache__/
+src/user/__pycache__/
+src/utils/__pycache__/
+posts/
+passwords/
